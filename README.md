@@ -14,7 +14,7 @@ An application that generates a high-quality README for your projects. It runs t
 GitHub Repository: https://github.com/1ance-301/readme-generator.git
 
 ## Usage
-
+![https://watch.screencastify.com/v/pP0oX8nNfBYIHfEUPDVZ]
 
 ## Languages
 - Javascript
