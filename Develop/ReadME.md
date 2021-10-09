@@ -14,10 +14,10 @@
   * [Questions](#questions)
 
   ## Installation
-  
+  there are none
 
   ## Usage
-  
+  this is an example
 
   ## License
   Licensed under the MIT license.(https://opensource.org/licenses/MIT)
